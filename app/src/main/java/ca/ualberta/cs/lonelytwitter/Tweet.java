@@ -3,7 +3,9 @@ package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
 
 /**
- * Created by shida3 on 1/19/17.
+ * Abstract class for Tweet, determine the
+ * basic functionality for any Tweet object to
+ * inferit from
  */
 
 public abstract class Tweet implements Tweetable{
